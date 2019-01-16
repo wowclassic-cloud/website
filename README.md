@@ -3,4 +3,4 @@
 Website for wowclassic.cloud
 (and classicwow.cloud)
 
-File an issue if you have any question
+File an [issue](https://github.com/wowclassic-cloud/website/issues/new) if you have any question
