@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: WoW Classic Cloud
+description: WoW Classic Cloud addons and features
+show_downloads: false
+github.is_project_page: false
